@@ -1,6 +1,7 @@
 # 概括
 
 - 记录项目过程文档，基础结构
+- [auto-gen shell script](./auto-gen.sh)
 
 
 # 内容
