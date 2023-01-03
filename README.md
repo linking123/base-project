@@ -27,3 +27,4 @@
     - deploy-doc
 - 08Safety: 安全
 - 09End: 结项
+- 10Ops: 运维
